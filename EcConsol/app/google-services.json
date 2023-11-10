@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "21675069441",
+    "firebase_url": "https://ec-admin-6e5e3-default-rtdb.firebaseio.com",
+    "project_id": "ec-admin-6e5e3",
+    "storage_bucket": "ec-admin-6e5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21675069441:android:289a958c0b60f15fed7000",
+        "android_client_info": {
+          "package_name": "com.example.ecadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD9R8h_EBbALrhZubICRgQAdunrtKTHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21675069441:android:f2b33d392c3ca1eced7000",
+        "android_client_info": {
+          "package_name": "com.example.ecconsol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD9R8h_EBbALrhZubICRgQAdunrtKTHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
